@@ -1,0 +1,34 @@
+
+
+.ti{
+    font-size: xx-large;
+    font-style: oblique;
+    font-stretch: wider;
+    font-family: Verdana;
+    color: rgb(245, 149, 5);
+    text-align: center;
+    background-color: rgb(62, 4, 117);
+
+}
+
+.al{
+font-family: Georgia;
+background-color: rgb(105, 170, 226);
+margin: auto;
+padding: 0;
+}
+.table-container{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 150vh;
+    padding: 100px;
+
+}
+.table{
+    width: 80px;
+    border-style: double;
+    background-color: rgb(179, 109, 109);
+    box-shadow: coral;
+    border-radius: 10px;
+}
